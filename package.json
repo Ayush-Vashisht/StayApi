@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ayush-Vashisht/StayApi/issues"
   },
-  "homepage": "https://github.com/Ayush-Vashisht/StayApi#readme"
+  "homepage": "https://github.com/Ayush-Vashisht/StayApi#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
